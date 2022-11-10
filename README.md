@@ -45,5 +45,10 @@ GUI操作：
 macro.txtを確認  
 
 
-#### 画像について
+### 画像について
 画像はモノクロビットマップのものをご用意ください．  
+
+
+### 詳しい使用方法はこちら
+あるごすにっき様より「【スプラトゥーン3】NX Macro controller Ver2.07 でイラスト自動ドット打ちをする」  
+URL: http://blog.livedoor.jp/swanday/archives/89068767.html
